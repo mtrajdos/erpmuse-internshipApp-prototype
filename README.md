@@ -1,3 +1,5 @@
+WARNING: EVENT RELATED POTENTIAL (ERP) INDUCTION NECESSITATES EXPLICIT IMAGERY, USER DISCRETION IS ADVISED
+
 This repository contains tools for stimulus presentation and EEG data analysis used in Internship I project of VU Amsterdam,
 completed by Michal Trajdos, under the supervision of Dr. Markus Junghöfer.
 
